@@ -1,0 +1,155 @@
+body{
+    width: 95%;
+    min-height: 95vh;
+    display: flex;
+    align-items: center;
+    background: url(H9lfhGZjSheVIntfeeUJ0AdOJe0NAxYPak65wlYnt78.webp)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    form{
+    position: absolute;
+    top: 7%;
+    left: 5%;
+    transform: translate(-50  -50);
+    width: 900px;
+    height: 530px;
+    background: rgba(0, 0, 0, 0.527);
+    border-radius: 15px;
+    box-sizing: border-box;
+    }
+    
+    h2{
+    color: #fff;
+    text-align: center;
+    margin-top: 2%;
+    }
+    input[placeholder="First Name"]{ 
+    position: absolute;
+    outline: none;
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-bottom: 2px solid#f1e42e;
+    background: none;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    }
+    input[placeholder="First Name"]{
+    top: 90px;
+    left: 600px;
+    }
+
+    input[placeholder="last name"]{ 
+        position: absolute;
+        outline: none;
+        border: none;
+        width: 250px;
+        height: 35px;
+        border-bottom: 2px solid#f1e42e;
+        background: none;
+        padding: 5px;
+        color: rgb(255, 255, 255);
+        }
+        input[placeholder="last name"]{
+        top: 200px;
+        left: 600px;
+        }
+        input[placeholder="Gmail Or Phone number"]{ 
+        position: absolute;
+        outline: none;
+        border: none;
+        width: 300px;
+        height: 35px;
+        border-bottom: 2px solid#f1e42e;
+        background: none;
+        padding: 5px;
+        color: rgb(255, 255, 255);
+        }
+        input[placeholder="Gmail Or Phone number"]{
+        top: 300px;
+        left: 297px;
+        text-align: center;
+        }
+
+    input[placeholder="password"]{ 
+        position: absolute;
+        outline: none;
+        border: none;
+        width: 250px;
+        height: 35px;
+        border-bottom: 2px solid#f1e42e;
+        background: none;
+        padding: 5px;
+        color: rgb(255, 255, 255);
+    }
+    input[placeholder="password"]{
+        top: 90px;
+        left: 50px;
+    }
+
+    input[placeholder="password confirmation"]{ 
+        position: absolute;
+        outline: none;
+        border: none;
+        width: 250px;
+        height: 35px;
+        border-bottom: 2px solid#f1e42e;
+        background: none;
+        padding: 5px;
+        color: rgb(255, 255, 255);
+    }
+    input[placeholder="password confirmation"]{
+        top: 200px;
+        left: 50px;
+    }
+
+    ::placeholder{
+        color: #fff;
+    }
+    input[value="Sign in"]{
+    position: absolute;
+    top: 430px;
+    left: 450px;
+    width: 130px;
+    height: 35px;
+    background: #0094ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+    }
+    input[value="Sign in"]:hover{
+    background: #fff;
+    color: #0077ff;
+    }
+
+   input[value="Register"]{
+    position: absolute;
+    top: 430px;
+    left: 300px;
+    width: 130px;
+    height: 35px;
+    background: #0094ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+    }
+    input[value="Register"]:hover{
+    background: #fff;
+    color: #0077ff;
+    }
+    .log{
+        position: absolute;
+        top: 480px;
+        left: 420px;
+        color: #fff;
+        cursor: pointer;
+    }
+    .log:hover{
+    color: #0094ff;
+    }

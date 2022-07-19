@@ -1,0 +1,97 @@
+body{
+    width: 95%;
+    min-height: 95vh;
+    display: flex;
+    align-items: center;
+    background: url(H9lfhGZjSheVIntfeeUJ0AdOJe0NAxYPak65wlYnt78.webp)no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    }
+    form{
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    transform: translate(-50  -50);
+    width: 350px;
+    height: 420px;
+    background: rgba(0, 0, 0, 0.527);
+    border-radius: 15px;
+    box-sizing: border-box;
+    }
+    
+    h2{
+    color: #fff;
+    text-align: center;
+    margin-top: 7%;
+    }
+    input[type="email"]{ 
+    position: absolute;
+    outline: none;
+    border: none;
+    width: 250px;
+    height: 35px;
+    border-bottom: 2px solid#f1e42e;
+    background: none;
+    padding: 5px;
+    color: rgb(255, 255, 255);
+    }
+    input[type="email"]{
+    top: 90px;
+    left: 50px;
+    }
+    input[type="password"]{ 
+        position: absolute;
+        outline: none;
+        border: none;
+        width: 250px;
+        height: 35px;
+        border-bottom: 2px solid#f1e42e;
+        background: none;
+        padding: 5px;
+        color: rgb(255, 255, 255);
+    }
+    input[type="password"]{
+        top: 180px;
+        left: 50px;
+    }
+    ::placeholder{
+        color: #fff;
+    }
+    input[value="login"]{
+    position: absolute;
+    top: 290px;
+    left: 110px;
+    width: 130px;
+    height: 35px;
+    background: #0094ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 15px;
+    font-size: 20px;
+    }
+    input[value="login"]:hover{
+    background: #fff;
+    color: #0077ff;
+    }
+    p{
+        position: absolute;
+        top: 375px;
+        left: 10px;
+        color: #fff;
+        cursor: pointer;
+    }
+    p:hover{
+    color: #0094ff;
+    }
+    .pp{
+        position: absolute;
+        top: 310px;
+        left: 270px;
+        color: #fff;
+        cursor: pointer;
+    }
+    .pp:hover{
+    color: #0094ff;
+    }

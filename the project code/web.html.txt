@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="everything about information coding ">
+  <title>Eslam</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+  <a href="#" class="logo">Eslam</a>
+    <nav class="navigation">
+     <a href="#services">services</a>
+      <a href="#project code">project code</a>
+      <a href="#contact">contact</a>
+    </nav>
+  </header>
+<section class="main">
+  <div>
+   <h2 class="hd">Hello, I'm Eslam <br> <span> I'm Front End Developer</span></h2>
+    <a href="756/Login.html" class="main-btn">view my work</a>
+    <div class="social-icons">
+      
+      <a href="https://www.facebook.com/profile.php?id=100026309592137" target="_blank">
+        <img src="img/facebook-f-brands.svg" alt="photo" width="30">
+      </a>
+      
+        <a href="https://www.instagram.com/3s14m_solom"  target="_blank">
+          <img src="img/instagram-square-brands.svg" alt="photo" width="30">
+        </a>
+     
+        <a href="https://twitter.com/3s14m18" target="_blank">
+          <img src="img/twitter-brands.svg" alt="photo" width="30">
+        </a>
+           
+        <a href="https://youtube.com/channel/UCLMbkpd31mYbxP_cxRzAaSg" target="_blank">
+          <img src="img/youtube-brands.svg" alt="photo" width="30">
+         </a>
+  
+      <div class="contact" id="services">
+          <h2 class="title">services</h2>
+          <div class="content">
+            <div class="card">
+              <div class="icon">
+                <img src="img/html5-brands.svg"  width="100%">
+              </div>
+              <div class="info">
+                <h3>HTML</h3>
+                  <p>Advanced</p>
+                    </div>
+                  </div>
+                <div class="card">
+                  <div class="icon">
+                    <img src="img/css3-brands.svg"  width="100%">
+                  </div>
+              <div class="info">
+                <h3>CSS</h3>
+                  <p>Advanced</p>
+                  </div>
+                </div>
+             <div class="card">
+              <div class="icon">
+                <img src="img/js-square-brands.svg" alt="photo" width="100%">
+              </div>
+              <div class="info">
+                <h3>JAVASCRIPT</h3>
+                  <p>Advanced</p>
+              </div>
+          </div>
+          <div class="card">
+            <div class="icon">
+              <img src="img/php-brands.svg"  width="100%">
+            </div>
+            <div class="info">
+              <h3>PHP</h3>
+                <p>Advanced</p>
+            </div>
+        </div>
+          </div>
+
+        <div class="project" id="project code">
+        
+        <h1 class="titlee">the project code</h1>
+        
+        <h2 class="bra">HTML CODE</h2>
+        <embed class="we" src="the project code/web.html.txt" height="500" width="100%" >
+          <h2 class="brag">CSS CODE</h2>
+          <embed class="we" src="the project code/web.css.txt" height="500" width="100%">
+      
+            <h3 class="us">about project</h3>
+        <p class="pra"><b>This website is still under maintenance and improvement.
+          This website is just a show of what can be provided from the 
+          experiences and<mark>there will be updates always.</b></mark></p>
+        
+        </div>
+
+        <div class="call" id="contact"> 
+         
+          <h2 class="titleee">Let's work target<h2>
+            <div class="content">
+              <div class="card">
+                <div class="icon">
+                
+                </div>
+                <div class="info">
+                  <h3>phone</h3>
+                  <p class="end">+201278352434</p>
+                </div>
+              </div>
+                <div class="card">
+                  <div class="icon">
+                  
+                  </div>
+                  <div class="info">
+                    <h3>Email</h3>
+                    <p class="end">esl6963@gmail.com</p>
+                  </div>
+                </div>
+              </div>
+               </div>
+                </div>
+</section>
+</body>
+</html>
